@@ -6,5 +6,9 @@ public class GitClass {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void test() {
+		System.out.println("this method is for review branch");
+	}
 
 }
